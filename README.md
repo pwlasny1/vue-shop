@@ -1,9 +1,9 @@
 # vue-shop (demo)
 
-App possibility :
--add/remove products to store
--add/remove products to cart
--card with quantity, price and description
+App possibility :<br>
+-add/remove products to store<br>
+-add/remove products to cart<br>
+-card with quantity, price and description<br>
 
 
 TERMINAL
